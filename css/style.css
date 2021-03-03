@@ -1,0 +1,51 @@
+body{
+    font: 20px Arial, Helvetica, sans-serif;
+}
+.quem-somos{
+    background-color: grey;
+    color: white;
+}
+
+.quemsomos-titulo{
+    font-weight: bolder;
+}
+
+.quem-somos-texto{
+    padding-bottom: 0px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+
+.parceiros{
+    background-color: #00adee;
+    color: white;
+    
+}
+
+.parceiros img{
+    padding: 10px;
+}
+
+.parceiros-titulo{
+    font-weight: bolder;
+    
+}
+
+.margin{
+    padding: 10px;
+    height: 100%;
+}
+.produtos p{
+    padding-top: 15px;
+    font-weight: bolder;
+}
+
+.produtos-titulo{
+    font-weight: bolder;
+}
+
+.footer{
+    background-color: rgb(116, 113, 113);
+    color: white;
+    font-weight: bolder;
+}
